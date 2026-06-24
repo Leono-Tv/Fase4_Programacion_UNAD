@@ -1,0 +1,4 @@
+[2026-06-24 10:08:55.306137] El nombre nunca debe estar vacío.
+[2026-06-24 10:08:55.306747] Correo electrónico inválido.
+[2026-06-24 10:08:55.307156] Las horas deben ser mayores que cero.
+[2026-06-24 10:08:55.307582] Error al crear la reserva.
