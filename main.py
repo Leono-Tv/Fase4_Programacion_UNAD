@@ -36,7 +36,7 @@ def registrar_log(mensaje):
 
 
 print("\n======================================================")
-print("      SISTEMA DE GESTIÓN DE CLIENTES Y RESERVAS")
+print("      SISTEMA DE GESTIÓN DE CLIENTES Y RESERVAS FJ")
 print("======================================================\n")
 
 
@@ -98,7 +98,7 @@ print("OPERACIÓN 3 - Cliente con correo inválido")
 try:
 
     cliente3 = Cliente(
-        "Juan Pérez",
+        "Pedro Pérez",
         "correo_invalido",
         "3201234567"
     )
