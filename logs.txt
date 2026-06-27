@@ -12,3 +12,8 @@
 [2026-06-27 10:36:30] El teléfono debe contener únicamente números.
 [2026-06-27 10:36:30] Las horas deben ser mayores que cero.
 [2026-06-27 10:36:30] Error al crear la reserva.
+[2026-06-27 10:41:32] El nombre nunca debe estar vacío.
+[2026-06-27 10:41:32] Correo electrónico inválido.
+[2026-06-27 10:41:32] El teléfono debe contener únicamente números.
+[2026-06-27 10:41:32] Las horas deben ser mayores que cero.
+[2026-06-27 10:41:32] Error al crear la reserva.
